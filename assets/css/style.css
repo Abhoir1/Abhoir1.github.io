@@ -503,8 +503,8 @@ section {
 # Resume
 --------------------------------------------------------------*/
 .resume .resume-title {
-  font-size: 22px;
-  font-weight: 700;
+  font-size: 20px;
+  font-weight: 600;
   margin-top: 20px;
   margin-bottom: 20px;
   color: #050d18;
@@ -519,21 +519,21 @@ section {
 }
 
 .resume .resume-item h4 {
-  line-height: 18px;
-  font-size: 18px;
-  font-weight: 600;
+  line-height: 10px;
+  font-size: 15px;
+  font-weight: 500;
   text-transform: uppercase;
   font-family: "Poppins", sans-serif;
   color: #050d18;
-  margin-bottom: 10px;
+  margin-bottom: 5px;
 }
 
 .resume .resume-item h5 {
-  font-size: 16px;
+  font-size: 10px;
   background: #e4edf9;
   padding: 5px 15px;
   display: inline-block;
-  font-weight: 600;
+  font-weight: 500;
   margin-bottom: 10px;
 }
 
