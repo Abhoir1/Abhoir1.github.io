@@ -511,7 +511,7 @@ section {
 }
 
 .resume .resume-item {
-  padding: 0 0 20px 20px;
+  padding: 0 0 10px 10px;
   margin-top: -2px;
   border-left: 2px solid #1f5297;
   position: relative;
@@ -529,7 +529,7 @@ section {
 }
 
 .resume .resume-item h5 {
-  font-size: 16px;
+  font-size: 10px;
   background: #e4edf9;
   padding: 5px 15px;
   display: inline-block;
@@ -538,11 +538,11 @@ section {
 }
 
 .resume .resume-item ul {
-  padding-left: 20px;
+  padding-left: 10px;
 }
 
 .resume .resume-item ul li {
-  padding-bottom: 10px;
+  padding-bottom: 5px;
 }
 
 .resume .resume-item:last-child {
