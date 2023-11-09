@@ -360,7 +360,7 @@ section {
 .about .content ul li {
   margin-bottom: 20px;
   display: flex;
-  align-items: left;
+  align-items: justify;
 }
 
 .about .content ul strong {
