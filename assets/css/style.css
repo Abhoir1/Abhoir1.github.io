@@ -429,6 +429,39 @@ section {
   color: #1f5297;
 }
 
+
+/* Timeline Section */
+.timeline {
+  padding: 80px 0;
+  background-color: #f5f5f5;
+}
+
+.timeline-list {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+
+.timeline-item {
+  position: relative;
+  padding-left: 50px;
+  margin-bottom: 40px;
+}
+
+.timeline-date {
+  position: absolute;
+  left: 0;
+  top: 0;
+  font-weight: bold;
+  color: #149ddd;
+}
+
+.timeline-item h3 {
+  margin: 0;
+  font-size: 18px;
+  color: #333;
+}
+
 /*--------------------------------------------------------------
 # Akills
 --------------------------------------------------------------*/
