@@ -477,7 +477,7 @@
 
           </div>
 
-          <div class="col-lg-7 mt-5 mt-lg-0 d-flex align-items-stretch">
+          <!-- <div class="col-lg-7 mt-5 mt-lg-0 d-flex align-items-stretch">
             <form action="https://formspree.io/f/xgejqgpq" method="post" role="form" class="php-email-form">
               <div class="row">
                 <div class="form-group col-md-6">
@@ -504,7 +504,15 @@
               </div>
               <div class="text-center"><button type="submit">Send Message</button></div>
             </form>
-          </div>
+          </div> -->
+        <div>
+          <form action="https://formspree.io/f/{your-form-id}" method="POST">
+            <input type="text" name="name" required>
+            <input type="email" name="_replyto" required>
+            <textarea name="message"></textarea>
+          </form>
+        </div>
+
 
         </div>
 
