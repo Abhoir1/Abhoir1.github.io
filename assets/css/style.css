@@ -472,13 +472,13 @@ section {
 .resume .resume-title {
   font-size: 26px;
   font-weight: 700;
-  margin-top: 10px;
-  margin-bottom: 10px;
+  margin-top: 20px;
+  margin-bottom: 20px;
   color: #050d18;
 }
 
 .resume .resume-item {
-  padding: 0 0 10px 10px;
+  padding: 0 0 20px 20px;
   margin-top: -2px;
   border-left: 2px solid #1f5297;
   position: relative;
@@ -512,7 +512,7 @@ section {
 
 .resume .resume-item ul li {
   padding-bottom: 6px;
-  font-size: 14px;
+  font-size: 16px;
   text-align: justify;
 }
 
@@ -535,7 +535,7 @@ section {
 
 .resume .resume-item p {
   text-align: justify;
-  font-size: 12px;
+  font-size: 16px;
 }
 
 /*--------------------------------------------------------------
